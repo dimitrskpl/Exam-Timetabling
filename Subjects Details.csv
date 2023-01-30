@@ -1,0 +1,39 @@
+﻿Semester,Subject,Professor,Difficult (TRUE/FALSE),Lab (TRUE/FALSE)
+1, Linear Algebra,YIANNOPOULOU,TRUE,FALSE
+1, Discrete Mathematics, ACHLIOPTAS, FALSE, FALSE
+1,Introduction to Information Technology and Telecommunications,TSALGATIDOU,FALSE,FALSE
+1, Logical Design, PASCHALIS, FALSE, FALSE
+1, Introduction to Programming, STAMATOPOULOS, FALSE, TRUE
+3,Analysis II,GAJOURA,TRUE,FALSE
+3,Probabilities and Statistics,KARALIOPOULOU,FALSE,FALSE
+3,Object Oriented Programming,CARALI,FALSE,TRUE
+3, Signals and Systems, PANAGAKIS, TRUE, FALSE
+3, Circuits and Systems Laboratory, PINO, FALSE, FALSE
+5,Principles of Programming Languages,RONTOGIANNIS,FALSE,FALSE
+5, Graphics I, THEOCHARIS, FALSE, FALSE
+5, Numerical Analysis, JAFERIS, TRUE, FALSE
+5,Applied Mathematics,GAJOURA,FALSE,FALSE
+5,Implementation of Database Systems,IOANNIDIS,TRUE,TRUE
+5,Operating Systems,HATZIEFTHYMIADIS,FALSE,FALSE
+5,Computer Architecture II,GIZOPOULOS,TRUE,FALSE
+5, Artificial Intelligence, KOUMPARAKIS, FALSE, TRUE
+5,Design of Digital Systems -VHDL,PASCHALIS,FALSE,FALSE
+5, Telecommunications Networks, VAROUTAS, FALSE, FALSE
+5,Digital Signal Processing,ALEXANDROPOULOS,FALSE,FALSE
+5, Communication Networks II, BALAOURAS, FALSE, FALSE
+7,Algorithmic Operations Research,ZISIMOPOULOS,FALSE,FALSE
+7,Advanced Algorithm Topics,FORTOUNELI,FALSE,FALSE
+7,Special Topics in Theoretical Informatics: Structural Bioinformatics Algorithms,ACHLIOPTAS,FALSE,FALSE
+7,Bioinformatics Algorithms,EMIRIS,FALSE,FALSE
+7, Advanced Scientific Computing, ZAFERIS, FALSE, FALSE
+7,Computational Complexity,GIANNOPOULOU,FALSE,FALSE
+7,Software Development for Algorithmic Problems,EMIRIS,FALSE,FALSE
+7, Software Development for Information Systems, IOANNIDIS, FALSE, FALSE
+7,Human Machine Communication,ROUSSOU,FALSE,FALSE
+7, ICT in Learning (Information and Education), GOGOULOU, FALSE, FALSE
+7,Artificial Intelligence II,KOUBARAKIS,TRUE,TRUE
+7, Structure and Institutions of the European Union, TOLIDIS, FALSE, FALSE
+7, Design of VLSI Circuits, NIKAS, FALSE, FALSE
+7,Special Topics in Communications and Signal Processing: Reinforcement machine learning and speculative games,KALOUPTSIDIS,FALSE,FALSE
+7, Software Development for Network and Telecommunication Systems, BALAOURAS, FALSE, FALSE
+7, IT systems and e-Accessibility for students with disabilities ,PINO,FALSE,FALSE
