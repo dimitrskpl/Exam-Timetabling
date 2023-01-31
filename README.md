@@ -1,4 +1,4 @@
-# exam-timetabling
+# Exam-Timetabling
 
 Exam timetabling is a difficult Constraint-Satisfaction problem regarding the planning of the examination of specific subjects on specific days and hours during an examination period. The aim of this project is the modeling and solving of a relatively simple version of this problem using Constraint-Satisfaction algorithms. The problem to be solved is defined as follows:
 
